@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="keepa_crawler",
-    version="0.1.0",
+    version="1.0.0",
     package_dir={"keepa_crawler": "src"},
     packages=["keepa_crawler"],
     install_requires=[

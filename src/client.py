@@ -13,7 +13,7 @@ import logging
 from typing import Optional, Dict, Tuple, List, Any
 from curl_cffi.requests import Session, WebSocket, WsCloseCode
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 logger = logging.getLogger(__name__)
 
 
