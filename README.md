@@ -6,7 +6,6 @@ A Python client for interacting with Keepa's WebSocket API to retrieve historica
 
 Install from PyPI:
 
-[source,bash]
 ```bash
 pip install keepa_crawler
 ```
